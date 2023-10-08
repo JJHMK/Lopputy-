@@ -23,6 +23,7 @@ Well, do I have [the website for you] [another fun place]!
  [a fun place]: https://www.zombo.com
  [another fun place]: https://www.stumbleupon.com
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+A pretty tiger
 ![Black]
 
 ![Orange]
@@ -71,6 +72,8 @@ I read this interesting quote the other day:
   * Loves whiskey
     * Possibly also scotch?
 
+## Stipadidau
+
 1. _Cut the cheese_
   * >Make sure that the cheese is cut into little triangles.
 
@@ -95,4 +98,16 @@ Drop the salmon into the egg-milk bowl.
    * >Use both hands
    * >Always have a towel nearby in case of messes
 
+
+We pictured the meek mild creatures where···
+They dwelt in their strawy pen,
+Nor did it occur to one of us there···
+To doubt they were kneeling then.
+
+ 1. Crack three eggs over a bowl.··
+Now, you're going to want to crack the eggs in such a way that you don't make a mess.··
+If you _do_ make a mess, use a towel to clean it up!
+
+2. Pour a gallon of milk into the bowl.··
+Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
